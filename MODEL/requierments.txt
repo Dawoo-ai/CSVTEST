@@ -1,0 +1,6 @@
+tqdm
+torch
+torchsummary
+matplotlib
+scikit-learn
+einops==0.6.1

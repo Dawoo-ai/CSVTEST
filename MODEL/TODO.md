@@ -1,0 +1,7 @@
+TO DO : 
+
+- CHANGE ROOT PATH TO currentdir DONE
+- MIDIDBMACRO
+- LEARN (generate.py) & TWEAK PARAMETERS
+- 
+
